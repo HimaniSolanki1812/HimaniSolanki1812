@@ -29,7 +29,6 @@
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himani-solanki-0739762b6/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/himani_solanki78/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/HimaniSolanki1812)  
 
 ---
 
