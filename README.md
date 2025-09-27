@@ -23,7 +23,6 @@
 ## 📊 GitHub Stats  
 ![Himani's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimaniSolanki1812&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimaniSolanki1812&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HimaniSolanki1812&theme=tokyonight)
 
 ---
 
