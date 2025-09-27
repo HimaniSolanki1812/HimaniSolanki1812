@@ -4,7 +4,7 @@
 ---
 
 ## 🌟 About Me  
-- 🔭 Currently working on **Digi Docs Desk App**  
+- 🔭 Currently working on **Digi Docs Desk App** (using **Flutter / Dart**)  
 - 🛠️ Past projects:  
   - **BloomCart** (PHP, MySQL, Web Development)  
   - **Hardware Shop Management System** (C#, .NET, Windows Forms)  
