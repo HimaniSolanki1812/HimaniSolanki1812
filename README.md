@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himani</h1>
+<h1 align="center">Hi 👋, I'm Himani Solanki</h1>
 <h3 align="center">💻 Beginner Programmer | 🌱 Learning Python & Data Structures | 🚀 Exploring Web Development</h3>
 
 ---
