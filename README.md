@@ -10,7 +10,6 @@
   - 🏬 **Hardware Shop Management System** (C#, .NET, Windows Forms)  
   - 📂 **File Organization System** (Python, Automation)  
 - 🌱 Learning **Data Structures & Algorithms**  
-- 🏆 Infosys Certified  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/himani-solanki-0739762b6/)  
 
 ---
@@ -48,9 +47,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/himani-solanki-0739762b6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/himani_solanki78/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
   </a>
 </p>
 
