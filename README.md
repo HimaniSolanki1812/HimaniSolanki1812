@@ -10,7 +10,7 @@
   - 🏬 **Hardware Shop Management System** (C#, .NET, Windows Forms)  
   - 📂 **File Organization System** (Python, Automation)  
 - 🌱 Learning **Data Structures & Algorithms**  
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/himani-solanki-0739762b6/)  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/himani-solanki-0739762b6/)
 
 ---
 
