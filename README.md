@@ -14,6 +14,17 @@
 
 ---
 
+## 🧩 Soft Skills  
+- 🤝 Team Collaboration  
+- 💡 Problem Solving  
+- 🕐 Time Management  
+- 🗣️ Effective Communication  
+- 🎯 Adaptability  
+- 🔍 Attention to Detail  
+- 💪 Self-Motivation  
+
+---
+
 ## 🚀 Tech Stack  
 
 <p align="center">
