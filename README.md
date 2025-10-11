@@ -15,13 +15,11 @@
 ---
 
 ## 🧩 Soft Skills  
-- 🤝 Team Collaboration  
-- 💡 Problem Solving  
-- 🕐 Time Management  
-- 🗣️ Effective Communication  
-- 🎯 Adaptability  
-- 🔍 Attention to Detail  
-- 💪 Self-Motivation  
+
+<p align="center">
+  🤝 Team Collaboration &nbsp; | &nbsp; 💡 Problem Solving &nbsp; | &nbsp; 🕐 Time Management &nbsp; | &nbsp; 🗣️ Communication <br><br>
+  🎯 Adaptability &nbsp; | &nbsp; 🔍 Attention to Detail &nbsp; | &nbsp; 💪 Self-Motivation
+</p>
 
 ---
 
