@@ -49,17 +49,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimaniSolanki1812&theme=radical" /> 
 </a> 
 </p>
----
 
-## 📊 GitHub Statistics  
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/HimaniSolanki1812?label=Followers&style=social&color=blue" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/commit-activity/m/HimaniSolanki1812?label=Commits+in+last+month&color=green" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/contributors/HimaniSolanki1812?label=Contributors&color=orange" height="40" />
-</p>
 
 ---
 
