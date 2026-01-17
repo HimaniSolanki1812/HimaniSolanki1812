@@ -10,8 +10,9 @@
   - 🌸 **BloomCart** – E-commerce Website (PHP, MySQL, Web Development)  
   - 🏬 **Hardware Shop Management System** – Desktop Application (C#, .NET, Windows Forms)  
   - 📂 **File Organization System** – Automation Tool (Python)  
-- 🌱 Currently learning **Data Structures & Algorithms**  
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/himani-solanki-0739762b6/)
+
+## 🌟 Contributions to Open Source Projects
+- 🤝 Contributor to [Flutter Project](https://github.com/Yashvi-Harsora/flutter_project) – Assisted in development of features and bug fixes in Flutter.
 
 ---
 
@@ -44,25 +45,12 @@
 
 ---
 
-## 📊 GitHub Statistics  
+## 📊 GitHub Activity (Badges)  
 
 <p align="center">
-  <a href="https://github.com/HimaniSolanki1812">
-    <img src="https://github-readme-stats.vercel.app/api?username=HimaniSolanki1812&show_icons=true&count_private=true&theme=radical" height="180em"/>
-  </a>
-  <a href="https://github.com/HimaniSolanki1812">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimaniSolanki1812&layout=compact&theme=radical" height="180em"/>
-  </a>
-</p>
-
----
-
-## 📈 GitHub Contributions  
-
-<p align="center">
-  <a href="https://github.com/HimaniSolanki1812">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimaniSolanki1812&theme=radical" />
-  </a>
+  <img src="https://img.shields.io/github/followers/HimaniSolanki1812?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/repo-size/HimaniSolanki1812/BloomCart?label=BloomCart+Size" />
+  <img src="https://img.shields.io/github/languages/top/HimaniSolanki1812/BloomCart?label=Top+Language" />
 </p>
 
 ---
