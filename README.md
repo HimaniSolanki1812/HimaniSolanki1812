@@ -47,18 +47,18 @@
 ## 📊 GitHub Statistics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimaniSolanki1812&show_icons=true&count_private=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimaniSolanki1812&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HimaniSolanki1812&show_icons=true&count_private=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimaniSolanki1812&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
 ## 📈 GitHub Contributions  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimaniSolanki1812&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimaniSolanki1812&theme=radical" />
 </p>
-
 ---
 
 ## 🌐 Connect with Me  
