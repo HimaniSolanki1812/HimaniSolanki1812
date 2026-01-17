@@ -4,13 +4,14 @@
 ---
 
 ## 🌟 About Me  
-- 🔭 Currently working on **Digi Docs Desk App** using **Flutter**  
-- 🛠️ Completed Projects:  
+- 🔭 Currently working on **Electro Billing System** using **React & ASP.NET MVC**  
+- ✅ Completed Projects:  
+  - 🌸 **Digi Docs Desk App** – Document Management (Flutter)  
   - 🌸 **BloomCart** – E-commerce Website (PHP, MySQL, Web Development)  
   - 🏬 **Hardware Shop Management System** – Desktop Application (C#, .NET, Windows Forms)  
   - 📂 **File Organization System** – Automation Tool (Python)  
 - 🌱 Currently learning **Data Structures & Algorithms**  
-- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/himani-solanki-0739762b6/)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/himani-solanki-0739762b6/)
 
 ---
 
@@ -38,6 +39,7 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" />
 </p>
 
 ---
@@ -45,8 +47,16 @@
 ## 📊 GitHub Statistics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimaniSolanki1812&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HimaniSolanki1812&show_icons=true&count_private=true&theme=tokyonight" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimaniSolanki1812&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+## 📈 GitHub Contributions  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimaniSolanki1812&theme=tokyonight" />
 </p>
 
 ---
