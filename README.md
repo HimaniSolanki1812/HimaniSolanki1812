@@ -44,13 +44,25 @@
 
 ---
 
-## 📊 GitHub Statistics (Badges)
+## 📊 GitHub Statistics  
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/HimaniSolanki1812?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/repo-size/HimaniSolanki1812/BloomCart?label=BloomCart+Size" />
-  <img src="https://img.shields.io/github/languages/top/HimaniSolanki1812/BloomCart?label=Top+Language" />
-  <img src="https://img.shields.io/github/last-commit/HimaniSolanki1812/BloomCart?label=Last+Commit" />
+  <a href="https://github.com/HimaniSolanki1812">
+    <img src="https://github-readme-stats.vercel.app/api?username=HimaniSolanki1812&show_icons=true&count_private=true&theme=radical" height="180em"/>
+  </a>
+  <a href="https://github.com/HimaniSolanki1812">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimaniSolanki1812&layout=compact&theme=radical" height="180em"/>
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Contributions  
+
+<p align="center">
+  <a href="https://github.com/HimaniSolanki1812">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimaniSolanki1812&theme=radical" />
+  </a>
 </p>
 
 ---
