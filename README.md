@@ -47,12 +47,11 @@
 ## 📊 GitHub Statistics  
 
 <p align="center">
-  <a href="https://github.com/HimaniSolanki1812">
-    <img src="https://img.shields.io/github/followers/HimaniSolanki1812?label=Followers&style=social" height="50em"/>
-    <img src="https://img.shields.io/github/repo-size/HimaniSolanki1812/BloomCart?label=BloomCart+Size" height="50em"/>
-    <img src="https://img.shields.io/github/languages/top/HimaniSolanki1812/BloomCart?label=Top+Language" height="50em"/>
-    <img src="https://img.shields.io/github/last-commit/HimaniSolanki1812/BloomCart?label=Last+Commit" height="50em"/>
-  </a>
+  <img src="https://img.shields.io/github/followers/HimaniSolanki1812?label=Followers&style=social&color=blue" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/commit-activity/m/HimaniSolanki1812?label=Commits+in+last+month&color=green" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/contributors/HimaniSolanki1812?label=Contributors&color=orange" height="40" />
 </p>
 
 ---
