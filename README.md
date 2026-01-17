@@ -10,9 +10,8 @@
   - 🌸 **BloomCart** – E-commerce Website (PHP, MySQL, Web Development)  
   - 🏬 **Hardware Shop Management System** – Desktop Application (C#, .NET, Windows Forms)  
   - 📂 **File Organization System** – Automation Tool (Python)  
-
-## 🌟 Contributions to Open Source Projects
-- 🤝 Contributor to [Flutter Project](https://github.com/Yashvi-Harsora/flutter_project) – Assisted in development of features and bug fixes in Flutter.
+- 🌱 Currently learning **Data Structures & Algorithms**  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/himani-solanki-0739762b6/)
 
 ---
 
@@ -45,12 +44,13 @@
 
 ---
 
-## 📊 GitHub Activity (Badges)  
+## 📊 GitHub Statistics (Badges)
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/HimaniSolanki1812?label=Followers&style=social" />
   <img src="https://img.shields.io/github/repo-size/HimaniSolanki1812/BloomCart?label=BloomCart+Size" />
   <img src="https://img.shields.io/github/languages/top/HimaniSolanki1812/BloomCart?label=Top+Language" />
+  <img src="https://img.shields.io/github/last-commit/HimaniSolanki1812/BloomCart?label=Last+Commit" />
 </p>
 
 ---
