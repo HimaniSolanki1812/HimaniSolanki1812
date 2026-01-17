@@ -1,29 +1,29 @@
-<h1 align="center">Hi 👋, I'm Himani Solanki</h1>
-<h3 align="center">💻 Beginner Programmer | 🌱 Learning Python & Data Structures | 🚀 Exploring Web Development</h3>
+<h1 align="center">Hello 👋, I'm Himani Solanki</h1>
+<h3 align="center">💻 Aspiring Programmer | 🌱 Learning Python & Data Structures | 🚀 Exploring Web Development</h3>
 
 ---
 
 ## 🌟 About Me  
-- 🔭 Currently working on **Digi Docs Desk App** (Flutter)  
-- 🛠️ Past Projects:  
-  - 🌸 **BloomCart** (PHP, MySQL, Web Development)  
-  - 🏬 **Hardware Shop Management System** (C#, .NET, Windows Forms)  
-  - 📂 **File Organization System** (Python, Automation)  
-- 🌱 Learning **Data Structures & Algorithms**  
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/himani-solanki-0739762b6/)
+- 🔭 Currently working on **Digi Docs Desk App** using **Flutter**  
+- 🛠️ Completed Projects:  
+  - 🌸 **BloomCart** – E-commerce Website (PHP, MySQL, Web Development)  
+  - 🏬 **Hardware Shop Management System** – Desktop Application (C#, .NET, Windows Forms)  
+  - 📂 **File Organization System** – Automation Tool (Python)  
+- 🌱 Currently learning **Data Structures & Algorithms**  
+- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/himani-solanki-0739762b6/)
 
 ---
 
-## 🧩 Soft Skills  
+## 🧩 Professional Skills  
 
 <p align="center">
-  🤝 Team Collaboration &nbsp; | &nbsp; 💡 Problem Solving &nbsp; | &nbsp; 🕐 Time Management &nbsp; | &nbsp; 🗣️ Communication <br><br>
+  🤝 Team Collaboration &nbsp; | &nbsp; 💡 Problem Solving &nbsp; | &nbsp; 🕐 Time Management &nbsp; | &nbsp; 🗣️ Effective Communication <br><br>
   🎯 Adaptability &nbsp; | &nbsp; 🔍 Attention to Detail &nbsp; | &nbsp; 💪 Self-Motivation
 </p>
 
 ---
 
-## 🚀 Tech Stack  
+## 🚀 Technical Skills  
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Statistics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HimaniSolanki1812&show_icons=true&theme=tokyonight" height="180em"/>
@@ -51,7 +51,7 @@
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/himani-solanki-0739762b6/">
