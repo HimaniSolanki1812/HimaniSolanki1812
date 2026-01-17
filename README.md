@@ -4,7 +4,7 @@
 ---
 
 ## 🌟 About Me  
-- 🔭 Currently working on **Electro Billing System** – two separate web applications built using **React** and **ASP.NET MVC** 
+- 🔭 Currently working on **Electro Billing System** using **React**
 - ✅ Completed Projects:  
   - 🌸 **Digi Docs Desk App** – Document Management (Flutter)  
   - 🌸 **BloomCart** – E-commerce Website (PHP, MySQL, Web Development)  
