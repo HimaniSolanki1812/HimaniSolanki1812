@@ -53,7 +53,7 @@
   <a href="https://github.com/HimaniSolanki1812">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimaniSolanki1812&layout=compact&theme=radical" height="180em"/>
   </a>
-  Contributor to [Flutter Project](https://github.com/Yashvi-Harsora/flutter_project) – Assisted in development of features and bug fixes in Flutter.
+  
 </p>
 
 ---
