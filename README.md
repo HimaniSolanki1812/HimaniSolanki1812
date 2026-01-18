@@ -46,19 +46,17 @@
 ## 📈 GitHub Contributions  
 
 <p align="center">
-  <img 
-    src="https://github.com/HimaniSolanki1812.png" 
-    alt="GitHub Profile"
-    width="120"
-  />
+  🌱 Actively learning & building projects <br/>
+  💻 Practicing daily with real-world applications <br/>
+  🤝 Contributing to team & collaborative projects <br/>
+  🚀 Growing consistently in Web & Software Development
 </p>
 
 <p align="center">
-  <a href="https://github.com/HimaniSolanki1812">
-    View my GitHub activity →
-  </a>
+  <img src="https://img.shields.io/badge/Status-Actively%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-React%20%26%20Web%20Development-blue" />
+  <img src="https://img.shields.io/badge/Projects-Hands--On-orange" />
 </p>
-
 ---
 ## 🌐 Connect with Me  
 
