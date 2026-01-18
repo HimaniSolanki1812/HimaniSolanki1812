@@ -47,9 +47,16 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=HimaniSolanki1812&theme=radical" 
-    alt="GitHub Contribution Streak"
+    src="https://github.com/HimaniSolanki1812.png" 
+    alt="GitHub Profile"
+    width="120"
   />
+</p>
+
+<p align="center">
+  <a href="https://github.com/HimaniSolanki1812">
+    View my GitHub activity →
+  </a>
 </p>
 
 ---
