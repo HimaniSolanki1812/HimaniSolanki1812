@@ -43,8 +43,16 @@
 </p>
 
 ---
+## 📈 GitHub Contributions  
 
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=HimaniSolanki1812&theme=radical" 
+    alt="GitHub Contribution Streak"
+  />
+</p>
 
+---
 ## 🌐 Connect with Me  
 
 <p align="center">
