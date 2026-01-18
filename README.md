@@ -43,22 +43,7 @@
 </p>
 
 ---
-## 📈 GitHub Contributions  
 
-<p align="center">
-  🌱 Actively learning and building real-world projects<br/>
-  💻 Consistently improving skills through hands-on development<br/>
-  🤝 Participating in collaborative and contributor-based projects
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/HimaniSolanki1812">
-    <img src="https://img.shields.io/badge/GitHub-View%20My%20Profile-black?logo=github&logoColor=white" />
-  </a>
-</p>
----
 
 ## 🌐 Connect with Me  
 
