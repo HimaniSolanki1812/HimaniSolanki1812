@@ -45,14 +45,11 @@
 ---
 ## 📈 GitHub Contributions 
 <p align="center">
-  <a href="https://github.com/HimaniSolanki1812">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=HimaniSolanki1812&theme=radical&hide_border=true" 
-      alt="GitHub Contribution Streak" 
-    />
-  </a>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=HimaniSolanki1812&theme=radical" 
+    alt="GitHub Contribution Streak"
+  />
 </p>
-
 
 ---
 
