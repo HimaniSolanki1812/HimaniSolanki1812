@@ -7,7 +7,7 @@
 
 ## 🌟 About Me  
 
-- 🔭 Currently working on **Electro Billing System** using **React**
+
 - 🌱 Actively learning **Data Structures & Algorithms**
 - 💡 Interested in **Web Development, PHP, and Open Source**
 - 📫 Connect with me on  
